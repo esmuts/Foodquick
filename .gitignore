@@ -1,0 +1,7 @@
+#ignore everything apart from the src folder
+.idea/
+doc/
+out/
+foodquick 2.0.iml
+FoodQuick.md
+.DS_Store
